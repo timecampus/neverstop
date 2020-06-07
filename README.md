@@ -23,7 +23,7 @@ Smashcast - https://www.smashcast.tv/timecampus
 
 ## Episodes
 
-1. [Hello World](1-HelloWorld/README.md)
+1. [Hello World](1-HelloWorld)
 
 ------------------------------------------
 
