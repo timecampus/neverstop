@@ -1,6 +1,8 @@
 # NeverStop
 Accompanying repository to Timecampus's Official Series #NeverStop
 
+![](assets/neverstop-1.png)
+
 ------------------------------------------
 
 ### Platforms
