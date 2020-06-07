@@ -1,6 +1,6 @@
 # Episode 1 - Hello World
 
-![](../assets/1-HelloWorld.png)
+![](1-HelloWorld.png)
 
 This is the 1st episode from our series Never Stop. This gives an overview about this series and its format along with a brief introduction about the topics which we would be starting with, the schedule and how you can reach out to us to make these sessions more interactive, engaging and productive.
 
