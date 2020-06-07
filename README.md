@@ -27,6 +27,12 @@ Smashcast - https://www.smashcast.tv/timecampus
 
 ------------------------------------------
 
+## Schedule
+
+[Add to your Google Calendar](https://calendar.google.com/calendar/embed?src=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com&ctz=Asia%2FKolkata)
+
+------------------------------------------
+
 ### Links
 
 [Support us on Patreon](https://www.patreon.com/timecampus)

@@ -4,7 +4,7 @@ This is the 1st episode from our series Never Stop. This gives an overview about
 
 ## Schedule
 
-June 15th 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)
+[June 15th 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2xpOXFjZjNoa2Y0bzJqcmhmYWtwaDMwN2sgdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
 
 30 minutes for the session, 15 minutes for Q&A and random chat
 
@@ -21,9 +21,3 @@ The agenda of this session are as follows
 ## Speaker(s)
 
 - [Vignesh T.V.](http://tvvignesh.com/)
-
-------------------------------------------
-
-### Notifications/Reminders
-
-[Add to your Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2xpOXFjZjNoa2Y0bzJqcmhmYWtwaDMwN2sgdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
