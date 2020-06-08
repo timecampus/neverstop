@@ -6,6 +6,12 @@ Accompanying repository to Timecampus's Official Series #NeverStop
 
 ---
 
+### About the Series
+
+If you are new here and not sure what this series is all about, you can read about it [here](https://medium.com/timecampus/introducing-neverstop-a-new-never-ending-series-from-timecampus-4f91f9549514) in our blog.
+
+---
+
 ### Platforms
 
 We stream on all these platforms
