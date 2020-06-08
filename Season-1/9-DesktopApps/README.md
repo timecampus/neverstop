@@ -6,7 +6,7 @@ This is the 9th episode from the series Never Stop. While we can end-up spending
 
 ## Schedule
 
-[July 3rd 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)]()
+[July 3rd 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTM4dm1lb2l2ZmxwMHV2OW9uZzlydmowNXQgdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
 
 30 minutes for the session, 15 minutes for Q&A and random chat
 

@@ -67,7 +67,7 @@ Smashcast - https://www.smashcast.tv/timecampus
 
 ### Season 2
 
-Details on further seasons would be available after we reach the half-way mark with these sessions.
+Schedule of Session 2 will be available on August 15th, 2020
 
 ---
 
