@@ -1,4 +1,4 @@
-# Episode 5 - Languages, Markup & Project Structure
+# Episode 5 - Languages, Markup & Project Structure - HTML, CSS, Javascript, Typescript, Markdown, etc.
 
 ![](5-LanguagesMarkupStructure.png)
 
