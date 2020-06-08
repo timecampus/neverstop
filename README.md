@@ -75,7 +75,7 @@ Schedule of Session 2 will be available on August 15th, 2020
 
 Every Monday, Wednesday and Friday - 9:00 PM to 9:45 PM
 
-[Add to your Google Calendar](https://calendar.google.com/calendar/embed?src=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com&ctz=Asia%2FKolkata)
+[Add to your Google Calendar](https://calendar.google.com/calendar?cid=dGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## NOTE:
 
