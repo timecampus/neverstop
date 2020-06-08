@@ -22,8 +22,6 @@ The agenda of this session are as follows
 
 ## Resources
 
-<!-- [View Slides](https://docs.google.com/presentation/d/1pCbS08n6ykjEYlumEQq92AQ2kWh4dxspPDX4g8Pw8cg/edit?usp=sharing) -->
-
 [View Slides](#) (Will be available immediately after the session)
 
 [Session Recording](#) (Will be available immediately after the session)
