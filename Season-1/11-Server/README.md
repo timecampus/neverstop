@@ -2,7 +2,7 @@
 
 ![](11-Server.png)
 
-This is the 11th episode from the series Never Stop. In this episode, we will talk about servers, proxies, frameworks, platforms including details on Node.js, the NPM Ecosystem, Express.js and all the building blocks to do server side development. We will also touch on what the serverless ecosystem and dive deep.
+This is the 11th episode from the series Never Stop. In this episode, we will talk about servers, proxies, frameworks, platforms including details on Node.js, the NPM Ecosystem, Express.js and all the building blocks to do server side development. We will also touch on what the serverless ecosystem, containerization using Docker and dive deep into it including things like Multi-stage build, images, scanning and more.
 
 ## Schedule
 
@@ -19,6 +19,7 @@ The agenda of this session are as follows
 - [ ] NPM & YARN
 - [ ] Express.js
 - [ ] Serverless
+- [ ] Docker
 
 ## Resources
 
