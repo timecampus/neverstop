@@ -16,16 +16,13 @@ We will also talk about the strategy behind deciding the Project structure
 
 The agenda of this session are as follows
 
-- [ ] About OSS Foundations
-- [ ] The Apache Software Foundation
-- [ ] The Linux Foundation
-- [ ] Cloud Native Compute Foundation
-- [ ] OpenJS Foundation
-- [ ] Mozilla Foundation
-- [ ] CI Foundation
-- [ ] Governance
-- [ ] Licensing
-- [ ] Conferences
+- [ ] Programming, Scripting & Markup Languages
+- [ ] HTML 5
+- [ ] CSS 3
+- [ ] Javascript (ECMA)
+- [ ] Typescript
+- [ ] Markdown
+- [ ] Web Assembly (WASM)
 
 ## Resources
 

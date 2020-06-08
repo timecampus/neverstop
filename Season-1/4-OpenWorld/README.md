@@ -2,7 +2,7 @@
 
 ![](4-OpenWorld.png)
 
-This is the 4th episode from the series Never Stop. Whether you know it or not, the Open Source World has done a lot for the community. It is very important to learn how some of them work. We will talk about OSS foundations like The Linux Foundation, Apache Software Foundation, Cloud Native Compute Foundation, OpenJS Foundation, Mozilla Foundation, CI Foundation and more.
+This is the 4th episode from the series Never Stop. Whether you know it or not, the Open Source World has done a lot for the community. It is very important to learn how some of them work. We will talk about OSS foundations like The Linux Foundation, Apache Software Foundation, Cloud Native Compute Foundation, OpenJS Foundation, Mozilla Foundation, CD Foundation and more.
 
 We will have a look at some of the projects hosted by them, how they work, the governance and licensing model and how such foundations create a sustainable environment for Open Source development along with the various conferences they host. We will dive deep.
 
@@ -22,7 +22,7 @@ The agenda of this session are as follows
 - [ ] Cloud Native Compute Foundation
 - [ ] OpenJS Foundation
 - [ ] Mozilla Foundation
-- [ ] CI Foundation
+- [ ] CD Foundation
 - [ ] Governance
 - [ ] Licensing
 - [ ] Conferences
