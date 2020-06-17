@@ -54,7 +54,7 @@ Smashcast - https://www.smashcast.tv/timecampus
   - [Season 1](#the-entrepreneur-1)
   - [Season 2](#the-entrepreneur-2)
 
-- [The Red Capet](#red-carpet) - Every Friday at 9:00 PM IST
+- [The Red Capet](#red-carpet) - Every Saturday at 9:00 PM IST
 
 ---
 
