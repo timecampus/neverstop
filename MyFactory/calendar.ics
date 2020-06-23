@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
+X-PUBLISHED-TTL:PT12H
+X-ORIGINAL-URL:https://www.facebook.com/events/1033200623741571/
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20200623T102600Z
+LAST-MODIFIED:20200623T102600Z
+CREATED:20200623T102600Z
+SEQUENCE:0
+ORGANIZER;CN=Timecampus:MAILTO:noreply@facebookmail.com
+DTSTART:20200623T153000Z
+DTEND:20200623T160000Z
+UID:e1033200623741571@facebook.com
+SUMMARY:My Factory - Timecampus #NeverStop
+LOCATION:Timecampus
+URL:https://www.facebook.com/events/1033200623741571/
+DESCRIPTION:Building "Your" Product Live\n\nPlea
+ se let us know the Problem you wan
+ t us to solve at https://docs.goog
+ le.com/forms/d/e/1FAIpQLSfRWRG5eox
+ wliUvwSWtRPwcG2_YpQB0zFnlXRsZxZe0m
+ lO48g/viewform?usp=sf_link\n\nhttps:
+ //github.com/timecampus/neverstop\n
+ \nhttps://www.facebook.com/events/1
+ 033200623741571/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:NEEDS-ACTION
+END:VEVENT
+END:VCALENDAR
