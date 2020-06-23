@@ -1,6 +1,6 @@
 # Product Management S01E01 - Why, What, How and Who
 
-![](PM-S01E01.png)
+[![alt text](PM-S01E01.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=8R8exodpyWs)
 
 In this episode, we will see the most important questions which a product manager has to answer even before starting to build out a product. Why, What, How and Who. Will be talking about this in detail and how to go about answering these questions.
 
