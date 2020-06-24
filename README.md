@@ -76,6 +76,10 @@ VK - https://vk.com/timecampus
 
 NOTE: Updates in progress, while the schedule has been finalized, we are still adding the contents to it. So, the below links will not work yet.
 
+[View the Calendar](https://calendar.google.com/calendar/embed?src=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com&ctz=Asia%2FKolkata)
+
+[Download ICS file](https://calendar.google.com/calendar/ical/timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com/public/basic.ics)
+
 <a name="product-management"></a>
 
 ### Product - Management
@@ -346,15 +350,13 @@ NOTE: Updates in progress, while the schedule has been finalized, we are still a
 
 ---
 
-<!-- [Add to your Google Calendar](https://calendar.google.com/calendar?cid=dGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) -->
-
 <a name="my-factory"></a>
 
 ## My Factory
 
 You give me any valid usecase or problem statement and I architect it live on stream to the best of my ability and will explain my thought process behind it.
 
-You can submit your entries here: [Submit Entry](https://docs.google.com/forms/d/e/1FAIpQLSfRWRG5eoxwliUvwSWtRPwcG2_YpQB0zFnlXRsZxZe0mlO48g/viewform?usp=sf_link)
+**PS:** You can submit your entries here: [Submit Entry](https://docs.google.com/forms/d/e/1FAIpQLSfRWRG5eoxwliUvwSWtRPwcG2_YpQB0zFnlXRsZxZe0mlO48g/viewform?usp=sf_link)
 
 <a name="my-factory-1"></a>
 
@@ -425,6 +427,8 @@ In this series, I take up some random topic or OSS project of my own interest an
 This is something special.. We invite people like you, me and great achievers to our stream and have a live interview of 20 minutes.
 
 The person would also be interacting with the audience and would also reply to the questions you ask in chat.
+
+**PS:** If you would like to nominate someone as a speaker in The Red Carpet, please use this link: [Nominate Speaker](https://forms.gle/fXXLeEy9434wbsFu6)
 
 <a name="red-carpet-1"></a>
 
