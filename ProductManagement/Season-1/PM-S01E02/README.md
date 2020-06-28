@@ -2,13 +2,13 @@
 
 [![alt text](PM-S01E02.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=WVl32gJ33xI)
 
-In this episode, we will see the most important questions which a product manager has to answer even before starting to build out a product. Why, What, How and Who. Will be talking about this in detail and how to go about answering these questions.
+In this episode, we will see how the product lifecycle goes and how you, as a product manager, entrepreneur or a business leader go about deciding what action to take, how to take it and when to take it depending on the stage your product is in.
 
 ## Stream Links
 
 Youtube: https://www.youtube.com/watch?v=WVl32gJ33xI
 
-Facebook: https://www.facebook.com/timecampustech/videos/1165531507179405/
+Facebook: https://www.facebook.com/timecampustech/live/
 
 Twitch: https://www.twitch.tv/timecampus
 
@@ -20,7 +20,7 @@ Smashcast: https://www.smashcast.tv/timecampus
 
 ## Schedule
 
-[June 22nd 2020, 9:00 PM - 9:30 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmhtNGhoZWE3dGVtYXJpM3U5cDhsbWFjdm4gdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
+[June 22nd 2020, 9:00 PM - 9:30 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG5hYzFlamhkMjRhNW9xY2d0c2cwcm43NTZfMjAyMDA2MjlUMTUzMDAwWiB0aW1lY2FtcHVzLmNvbV8zaHE0cHRrczBsZTJybmQwajAxbzYwMTRhZ0Bn&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
 
 20 minutes for the session, 10 minutes for Q&A and random chat
 
