@@ -1,4 +1,4 @@
-# Product Management S01E02 - The Lifecycle
+# My Factory S01E02
 
 [![alt text](MF-S01E03.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=d6d-QUiMj20)
 
