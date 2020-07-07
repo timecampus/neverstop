@@ -40,6 +40,8 @@ The agenda of this session are as follows
 
 [View Slides](https://docs.google.com/presentation/d/18Hg_l2KK1ipgpG5rjipe9rMiiGwkOf1qJ8DweOlM65g/edit?usp=sharing)
 
+[Diagram](https://drive.google.com/file/d/1efwN6lPT_KA0NaFgKOnK344hnatzSZKr/view?usp=sharing)
+
 ## Speaker(s)
 
 - [Vignesh T.V.](http://tvvignesh.com/)
