@@ -1,4 +1,4 @@
-# Product Development S01E02 - The StackProduct Development - The Stack - Timecampus #NeverStop
+# Product Development S01E03 - The Stack - Timecampus #NeverStop
 
 [![alt text](PD-S01E03.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=APijp-wbmsM)
 
