@@ -362,11 +362,11 @@ You give me any valid usecase or problem statement and I architect it live on st
 
 #### Season 1
 
-1. [My Factory #1](MyFactory/Season-1/MF-S01E01/README.md)
+1. [My Factory #1 - Architecting Multi-streaming app](MyFactory/Season-1/MF-S01E01/README.md)
 
-2. [My Factory #2](MyFactory/Season-1/MF-S01E02/README.md)
+2. [My Factory #2 - Architecting Offline App](MyFactory/Season-1/MF-S01E02/README.md)
 
-3. [My Factory #3](MyFactory/Season-1/MF-S01E03/README.md)
+3. [My Factory #3 - Architecting Google Part 1](MyFactory/Season-1/MF-S01E03/README.md)
 
 4. [My Factory #4](MyFactory/Season-1/MF-S01E04/README.md)
 
@@ -434,29 +434,29 @@ The person would also be interacting with the audience and would also reply to t
 
 #### Season 1
 
-1. [The Red Carpet #1](TheRedCarpet/Season-1/TRC-S01E01/README.md)
+1. [The Red Carpet #1 - Feat.Gaurav Anand, Twitch INDIA Partner & Ex-Pro Gamer (DOTA 2)](TheRedCarpet/Season-1/TRC-S01E01/README.md)
 
-2. [The Red Carpet #2](TheRedCarpet/Season-1/TRC-S01E02/README.md)
+2. [The Red Carpet #2 - Feat. Prakash Ramnath, Vice President, Marketing & Global Partnerships, Ramco Systems](TheRedCarpet/Season-1/TRC-S01E02/README.md)
 
-3. [The Red Carpet #3](TheRedCarpet/Season-1/TRC-S01E03/README.md)
+3. [The Red Carpet #3 - Feat. Virender Aggarwal, CEO, Ramco Systems](TheRedCarpet/Season-1/TRC-S01E03/README.md)
 
-4. [The Red Carpet #4](TheRedCarpet/Season-1/TRC-S01E04/README.md)
+4. [The Red Carpet #4 - Feat. Pranay Aggarwal & Daniel D'Souza, TIF Labs](TheRedCarpet/Season-1/TRC-S01E04/README.md)
 
-5. [The Red Carpet #5](TheRedCarpet/Season-1/TRC-S01E05/README.md)
+5. [The Red Carpet #5 - Feat. Priyadeep Sinha, Vice President, GAME](TheRedCarpet/Season-1/TRC-S01E05/README.md)
 
-6. [The Red Carpet #6](TheRedCarpet/Season-1/TRC-S01E06/README.md)
+6. [The Red Carpet #6 - Feat. Kartik Mandaville, Chief Executive Officer, Springworks](TheRedCarpet/Season-1/TRC-S01E06/README.md)
 
-7. [The Red Carpet #7](TheRedCarpet/Season-1/TRC-S01E07/README.md)
+7. [The Red Carpet #7 - Feat. Sahiba Sethi, Founder, HelloMeets](TheRedCarpet/Season-1/TRC-S01E07/README.md)
 
-8. [The Red Carpet #8](TheRedCarpet/Season-1/TRC-S01E08/README.md)
+8. [The Red Carpet #8 - TBA](TheRedCarpet/Season-1/TRC-S01E08/README.md)
 
-9. [The Red Carpet #9](TheRedCarpet/Season-1/TRC-S01E09/README.md)
+9. [The Red Carpet #9 - TBA](TheRedCarpet/Season-1/TRC-S01E09/README.md)
 
-10. [The Red Carpet #10](TheRedCarpet/Season-1/TRC-S01E10/README.md)
+10. [The Red Carpet #10 - TBA](TheRedCarpet/Season-1/TRC-S01E10/README.md)
 
-11. [The Red Carpet #11](TheRedCarpet/Season-1/TRC-S01E11/README.md)
+11. [The Red Carpet #11 - TBA](TheRedCarpet/Season-1/TRC-S01E11/README.md)
 
-12. [The Red Carpet #12](TheRedCarpet/Season-1/TRC-S01E12/README.md)
+12. [The Red Carpet #12 - TBA](TheRedCarpet/Season-1/TRC-S01E12/README.md)
 
 ## NOTE:
 
