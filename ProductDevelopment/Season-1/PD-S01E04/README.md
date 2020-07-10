@@ -1,12 +1,12 @@
 # Product Development S01E04 - Languages, Markup & Structure Part 1
 
-[![alt text](PD-S01E04.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=rYzbpe--2bk)
+[![alt text](PD-S01E04.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=tS2PQ9kDfO8)
 
 In this episode, we will look at how to go about choosing the right tech stack depending on our usecase and architecture. We will dive deep on what to keep into account when deciding the right tool or software for you with practical examples.
 
 ## Stream Links
 
-Youtube: https://www.youtube.com/watch?v=rYzbpe--2bk
+Youtube: https://www.youtube.com/watch?v=tS2PQ9kDfO8
 
 Facebook: https://www.facebook.com/timecampustech/live/
 
