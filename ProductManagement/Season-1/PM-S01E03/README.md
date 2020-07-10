@@ -1,4 +1,4 @@
-# Product Management S01E02 - The Lifecycle
+# Product Management S01E03 - The Experience & Research
 
 [![alt text](PM-S01E03.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=4-1FNsM10mE)
 
