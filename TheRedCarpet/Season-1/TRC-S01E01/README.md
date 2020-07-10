@@ -1,6 +1,6 @@
 # The Red Carpet S01E01 - Gaurav Anand, Twitch INDIA Partner & Ex-Pro Gamer (DOTA 2), Ramco Systems
 
-[![alt text](TRC-S01E01.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=btco73BUgEg)
+[![alt text](TRC-S01E01.gif "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=btco73BUgEg)
 
 In this episode, we will be giving you an idea about all the challenges which an entrepreneur would typically face during his/her journey and how you would go about overcoming all of them.
 
