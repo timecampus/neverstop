@@ -1,4 +1,4 @@
-# The Entrepreneur S01E01 - The Mantle
+# The Entrepreneur S01E01 - The Problem & The Solution
 
 [![alt text](TE-S01E01.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=-Hfayg7Z8Rg)
 

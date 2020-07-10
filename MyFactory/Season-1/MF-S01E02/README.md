@@ -1,6 +1,6 @@
 # My Factory S01E02
 
-[![alt text](MF-S01E03.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=d6d-QUiMj20)
+[![alt text](MF-S01E02.png "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=d6d-QUiMj20)
 
 In this episode, we will see how the product lifecycle goes and how you, as a product manager, entrepreneur or a business leader go about deciding what action to take, how to take it and when to take it depending on the stage your product is in.
 
