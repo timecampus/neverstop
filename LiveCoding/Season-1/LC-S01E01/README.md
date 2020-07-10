@@ -34,7 +34,7 @@ The agenda of this session are as follows
 
 ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/1Fa8vU8MH4xyUKyKmNbKH7IkK0paNdGnzRaLh1JrZTic/edit?usp=sharing)
+[View Slides](https://docs.google.com/presentation/d/1KD5oJo8QgIe7lB7eC4bo8ZXvO2UCaaivrYfiorM8IV0/edit?usp=sharing)
 
 ## Speaker(s)
 
