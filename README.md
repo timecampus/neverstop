@@ -40,17 +40,17 @@ VK - https://vk.com/timecampus
 
 ## SERIES LIST (#NeverStop)
 
-- [Product - Management](product-management/overview) - Every Monday at 9:00 PM IST
+- [Product - Management](product-management/overview.md) - Every Monday at 9:00 PM IST
 
-- [My Factory](my-factory/overview) - Every Tuesday at 9:00 PM IST
+- [My Factory](my-factory/overview.md) - Every Tuesday at 9:00 PM IST
 
-- [Product - Development, Security & Privacy](product-development/overview) - Every Wednesday at 9:00 PM IST
+- [Product - Development, Security & Privacy](product-development/overview.md) - Every Wednesday at 9:00 PM IST
 
-- [Live Coding](live-coding/overview) - Every Thursday at 9:00 PM IST
+- [Live Coding](live-coding/overview.md) - Every Thursday at 9:00 PM IST
 
-- [The Entrepreneur](the-entrepreneur/overview) - Every Friday at 9:00 PM IST
+- [The Entrepreneur](the-entrepreneur/overview.md) - Every Friday at 9:00 PM IST
 
-- [The Red Capet](the-red-carpet/overview) - Every Saturday at 9:00 PM IST
+- [The Red Capet](the-red-carpet/overview.md) - Every Saturday at 9:00 PM IST
 
 ---
 
