@@ -25,7 +25,7 @@ Smashcast: https://www.smashcast.tv/timecampus
 
 ## Agenda
 
-Just a casual chat with Mr.Priyadeep Sinha from GAME and we will see what we have to learn from him.
+Just a casual chat with Ms.Sahiba Sethi from Hello Meets and we will see what we have to learn from her.
 
 ## Resources
 
