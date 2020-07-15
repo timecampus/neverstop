@@ -8,7 +8,7 @@ description: "The Entrepreneur - Overview"
 import Jump from '@site/src/components/Jump';
 import Alert from '@site/src/components/Alert';
 
-[![IMAGE ALT TEXT](TheEntrepreneur.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsUKP5nfNlKP6B_UWjZUkX2h "The Entrepreneur Series from Timecampus")
+[![IMAGE ALT TEXT](/img/TheEntrepreneur.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsUKP5nfNlKP6B_UWjZUkX2h "The Entrepreneur Series from Timecampus")
 
 ## Seasons
 

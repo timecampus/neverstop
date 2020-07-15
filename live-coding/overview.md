@@ -8,7 +8,7 @@ description: "Live Coding - Overview"
 import Jump from '@site/src/components/Jump';
 import Alert from '@site/src/components/Alert';
 
-[![IMAGE ALT TEXT](LiveCoding.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsWujE7dqH7u0vLdF_IBIOd9 "The Live Coding Series from Timecampus")
+[![IMAGE ALT TEXT](/img/LiveCoding.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsWujE7dqH7u0vLdF_IBIOd9 "The Live Coding Series from Timecampus")
 
 In this series, we take up a topic or OSS project and code it live in the stream.
 

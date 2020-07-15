@@ -8,7 +8,7 @@ description: "Product Development - Overview"
 import Jump from '@site/src/components/Jump';
 import Alert from '@site/src/components/Alert';
 
-[![IMAGE ALT TEXT](ProductDevelopment.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsWkSbA9WJtNyVvmACQzhorf "The Product Development Series from Timecampus")
+[![IMAGE ALT TEXT](/img/ProductDevelopment.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsWkSbA9WJtNyVvmACQzhorf "The Product Development Series from Timecampus")
 
 ## Seasons
 

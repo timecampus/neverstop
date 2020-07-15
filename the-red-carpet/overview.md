@@ -8,6 +8,8 @@ description: "The Red Carpet - Overview"
 import Jump from '@site/src/components/Jump';
 import Alert from '@site/src/components/Alert';
 
+[![IMAGE ALT TEXT](/img/TheRedCarpet.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsVw13IqG8Csud2d-k1n57dp "The Red Carpet Series from Timecampus")
+
 This is something special.. We invite people like you, me and great achievers to our stream and have a live interview of 20 minutes.
 
 The person would also be interacting with the audience and would also reply to the questions you ask in chat.

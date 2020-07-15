@@ -8,7 +8,7 @@ description: "My Factory - Overview"
 import Jump from '@site/src/components/Jump';
 import Alert from '@site/src/components/Alert';
 
-[![IMAGE ALT TEXT](MyFactory.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsU3YZBdbegn_-u5xxOEO0hP "The Product Architecture Series from Timecampus")
+[![IMAGE ALT TEXT](/img/MyFactory.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsU3YZBdbegn_-u5xxOEO0hP "The Product Architecture Series from Timecampus")
 
 You give me any valid usecase or problem statement and I architect it live on stream to the best of my ability and will explain my thought process behind it.
 

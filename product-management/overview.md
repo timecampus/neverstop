@@ -8,7 +8,7 @@ description: "Product Management"
 import Jump from '@site/src/components/Jump';
 import Alert from '@site/src/components/Alert';
 
-[![IMAGE ALT TEXT](ProductManagement.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsX7PSR_p3w9n7uK2GcoVgm8 "The Product Management Series from Timecampus")
+[![IMAGE ALT TEXT](/img/ProductManagement.png)](https://www.youtube.com/playlist?list=PLk3IxQI7FqsX7PSR_p3w9n7uK2GcoVgm8 "The Product Management Series from Timecampus")
 
 ## Seasons
 
