@@ -1,21 +1,20 @@
-## Details Coming soon. Please stay tuned
+# The Entrepreneur S01E07 - Incorporation and Govt Formalities
 
-In the meantime, you can watch all our past sessions at Youtube: [https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA](https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA)
+<img src="https://raw.githubusercontent.com/timecampus/neverstop/master/the-entrepreneur/Season-1/TE-S01E07/TE-S01E07.png" width="800">
 
-<!-- # Episode 1 - Hello World
+<!-- [![alt text](https://raw.githubusercontent.com/timecampus/neverstop/master/the-entrepreneur/Season-1/TE-S01E07/TE-S01E07.png "Watch/Subscribe to the video" | width=300)](https://www.youtube.com/watch?v=t1mrmYhN7-0) -->
 
-![](PM-S01E01.png)
-
-In this episode, we will see the most important questions which a product manager has to answer even before starting to build out a product. Why, What, How and Who. Will be talking about this in detail and how to go about answering these questions.
+---
 
 ## Stream Links
 
-Youtube: https://www.youtube.com/watch?v=8R8exodpyWs
-
-Twitch: https://www.twitch.tv/timecampus
+Youtube: https://www.youtube.com/watch?v=FV_7FtEL7kI
 
 Facebook: https://www.facebook.com/timecampustech/live/
 
+Twitch: https://www.twitch.tv/timecampus
+
+Mixer: https://mixer.com/timecampus
 
 Periscope: https://periscope.tv/timecampus
 
@@ -23,42 +22,79 @@ Smashcast: https://www.smashcast.tv/timecampus
 
 ## Schedule
 
-[June 15th 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2xpOXFjZjNoa2Y0bzJqcmhmYWtwaDMwN2sgdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
+[July 31st 2020, 9:00 PM - 9:30 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjlrbzloN2lhcGtkdmJnb2J1MnRvZ2R0OTdfMjAyMDA3MzFUMTUzMDAwWiB0aW1lY2FtcHVzLmNvbV8zaHE0cHRrczBsZTJybmQwajAxbzYwMTRhZ0Bn&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
 
-30 minutes for the session, 15 minutes for Q&A and random chat
+---
 
 ## Agenda
 
-The agenda of this session are as follows
+We will talk about the various government and legal formalities to keep in mind when incorporating.
 
-- [ ] About Timecampus
-- [ ] Introduction to this series
-- [ ] A brief overview about the topics we will cover with details on the schedule
-- [ ] Prerequisites & Expectations
-- [ ] Ways to mutually engage and collaborate with each other
+- [ ] Why Incorporate?
+- [ ] The Procedure
+- [ ] The Documents
+- [ ] Government Schemes
+- [ ] Legal Awareness
+- [ ] Patents, Trademarks & Copyrights
+- [ ] Tools & Services
 
-## Resources
+---
 
-[View Slides](#) (Will be available immediately after the session)
+## Why Incorporate?
 
-[Session Recording](#) (Will be available immediately after the session)
+[https://cleartax.in/s/company-incorporation-advantages](https://cleartax.in/s/company-incorporation-advantages)
 
-[Article](#) (Will be available immediately after the session)
+---
+
+## Types of Business Entities
+
+[https://cleartax.in/s/company-registration](https://cleartax.in/s/company-registration)
+
+---
+
+## Incorporating Procedure
+
+[https://cleartax.in/s/steps-to-register-private-limited-company](https://cleartax.in/s/steps-to-register-private-limited-company)
+
+[https://www.startupindia.gov.in/content/sih/en/international/go-to-market-guide/business-in-India.html](https://www.startupindia.gov.in/content/sih/en/international/go-to-market-guide/business-in-India.html)
+---
+
+## The Documents
+
+[https://www.indiafilings.com/learn/documents-required-for-company-registration/](https://www.indiafilings.com/learn/documents-required-for-company-registration/)
+
+---
+
+## Government Schemes
+
+[https://www.startupindia.gov.in/](https://www.startupindia.gov.in/)
+
+[https://inc42.com/buzz/startup-scheme-indian-government-startups/](https://inc42.com/buzz/startup-scheme-indian-government-startups/)
+
+---
+
+## Legal Awareness
+
+[https://www.lawyered.in/legal-disrupt/articles/ultimate-legal-guide-startups/](https://www.lawyered.in/legal-disrupt/articles/ultimate-legal-guide-startups/)
+
+---
+
+## Patents, Trademarks & Copyrights
+
+[http://www.patenttrademarkblog.com/patent-startups/](http://www.patenttrademarkblog.com/patent-startups/)
+
+[https://www.zatalyst.com/intellectual-property-startup-india/](https://www.zatalyst.com/intellectual-property-startup-india/)
+
+---
+
+## Tools & Services
+
+[https://cleartax.in/](https://cleartax.in/)
+
+[https://stripe.com/atlas](https://stripe.com/atlas)
+
+[https://www.clerky.com/](https://www.clerky.com/)
 
 ## Speaker(s)
 
 - [Vignesh T.V.](http://tvvignesh.com/)
-
----
-
-## Links
-
-[Support us on Patreon](https://www.patreon.com/timecampus)
-
-[Timecampus Alpha Participation](https://docs.google.com/forms/d/1-fHizPhuXqDKqFZ2ns7Ttl00mT13DtjsRbHE5KtpxXs/viewform)
-
-[Timecampus Careers & Internships](https://docs.google.com/forms/d/1jHW-I5yjHl49itwoyM5xxYUao0X1fbnnoxJd78fS5u8/viewform)
-
-[Investors](https://docs.google.com/forms/d/13jkHPdvqoMDNsyzpC8-Dbv0lai8bXOvOLIovey7hfUM/viewform)
-
-[For Consultancy](https://docs.google.com/forms/d/e/1FAIpQLSeCb-Pu7Hcnh7oRvleRka2VW8EVZ6d8cNEccV7jKVmzhE6ilg/viewform) -->

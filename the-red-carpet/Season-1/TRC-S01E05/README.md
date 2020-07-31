@@ -1,12 +1,12 @@
 # The Red Carpet S01E05 - Priyadeep Sinha, Vice President, GAME
 
-[![alt text](TRC-S01E05.gif "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=ybanZbiys14)
+[![alt text](TRC-S01E05.gif "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=ae7_9jMblBE)
 
 In this episode, we will be hosting Mr.Pranay Aggarwal,CEO,TIF Labs Mr.Daniel D'Souza,CTO,TIF Labs and will be talking about all their vision, experience and challenges working on their startup TIF Labs and also understand the role they are playing with healthcare along with their innovation in the electronics domain.
 
 ## Stream Links
 
-Youtube: https://www.youtube.com/watch?v=ybanZbiys14
+Youtube: https://www.youtube.com/watch?v=ae7_9jMblBE
 
 Facebook: https://www.facebook.com/timecampustech/live/
 

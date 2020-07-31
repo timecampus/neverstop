@@ -2,9 +2,9 @@
 
 In the meantime, you can watch all our past sessions at Youtube: [https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA](https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA)
 
-<!-- # Episode 1 - Hello World
+ # Episode 1 - Hello World
 
-![](PM-S01E01.png)
+![](./LC-S01E06.png)
 
 In this episode, we will see the most important questions which a product manager has to answer even before starting to build out a product. Why, What, How and Who. Will be talking about this in detail and how to go about answering these questions.
 
@@ -61,4 +61,4 @@ The agenda of this session are as follows
 
 [Investors](https://docs.google.com/forms/d/13jkHPdvqoMDNsyzpC8-Dbv0lai8bXOvOLIovey7hfUM/viewform)
 
-[For Consultancy](https://docs.google.com/forms/d/e/1FAIpQLSeCb-Pu7Hcnh7oRvleRka2VW8EVZ6d8cNEccV7jKVmzhE6ilg/viewform) -->
+[For Consultancy](https://docs.google.com/forms/d/e/1FAIpQLSeCb-Pu7Hcnh7oRvleRka2VW8EVZ6d8cNEccV7jKVmzhE6ilg/viewform) 
