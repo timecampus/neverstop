@@ -1,6 +1,7 @@
 # The Red Carpet S01E07 - Sahiba Sethi, Founder, HelloMeets
 
-[![alt text](TRC-S01E07.gif "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=kp5VVyucZ_c)
+<img src="https://raw.githubusercontent.com/timecampus/neverstop/master/the-red-carpet/Season-1/TRC-S01E07/TRC-S01E07.png" width="800">
+<!-- [![alt text](TRC-S01E07.gif "Watch/Subscribe to the video")](https://www.youtube.com/watch?v=kp5VVyucZ_c) -->
 
 In this episode, we will be hosting Ms.Sahiba Sethi,Founder,HelloMeets and will be talking about all her experience building her startup HelloMeets from ground up, attracting active volunteers, bootstrap it and scaling it to 7 cities and 2 countries and also authoring a book in the process.
 
@@ -23,13 +24,23 @@ Smashcast: https://www.smashcast.tv/timecampus
 
 30 minutes for the session, Q&A in the middle
 
+---
+
+## Speaker Profile
+
+- Founder, [HelloMeets](https://www.hellomeets.com/)
+
+- Author, [Diamonds in the Rough](https://www.amazon.in/DIAMONDS-ROUGH-Journey-Unusual-Founders-ebook/dp/B01GA4771O)
+
+---
+
 ## Agenda
 
-Just a casual chat with Ms.Sahiba Sethi from Hello Meets and we will see what we have to learn from her.
+A casual chat with Ms.Sahiba Sethi from Hello Meets and we will see what we have to learn from her.
 
-## Resources
+<!-- ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/1-5DYZt3RWCrf4yYsyiXFA0m9IjOxBkHg3q3dSjPqRt0/edit?usp=sharing)
+[View Slides](https://docs.google.com/presentation/d/1-5DYZt3RWCrf4yYsyiXFA0m9IjOxBkHg3q3dSjPqRt0/edit?usp=sharing) -->
 
 ## Speaker(s)
 
