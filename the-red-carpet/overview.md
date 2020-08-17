@@ -37,11 +37,11 @@ The person would also be interacting with the audience and would also reply to t
 
 7. [The Red Carpet #7 - Feat. Sahiba Sethi, Founder, HelloMeets](Season-1/TRC-S01E07/README.md)
 
-8. [The Red Carpet #8 - TBA](Season-1/TRC-S01E08/README.md)
+8. [The Red Carpet #8 - Feat. Gopal Krishna, Founder & C.E.O, 3D Usher](Season-1/TRC-S01E08/README.md)
 
-9. [The Red Carpet #9 - TBA](Season-1/TRC-S01E09/README.md)
+9. [The Red Carpet #9 - Feat. Sona Vaish Venkat, Founder, Awara Ventures](Season-1/TRC-S01E09/README.md)
 
-10. [The Red Carpet #10 - TBA](Season-1/TRC-S01E10/README.md)
+10. [The Red Carpet #10 - Feat. Avin Jain, Founder & C.E.O, BDB](Season-1/TRC-S01E10/README.md)
 
 11. [The Red Carpet #11 - TBA](Season-1/TRC-S01E11/README.md)
 

@@ -1,21 +1,18 @@
-## Details Coming soon. Please stay tuned
+# Product Development S01E09 - Cross Platform Desktop Apps
 
-In the meantime, you can watch all our past sessions at Youtube: [https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA](https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA)
+<img src="https://raw.githubusercontent.com/timecampus/neverstop/master/product-development/Season-1/PD-S01E09/PD-S01E09.png" width="800">
 
-<!-- # Episode 1 - Hello World
-
-![](PM-S01E01.png)
-
-In this episode, we will see the most important questions which a product manager has to answer even before starting to build out a product. Why, What, How and Who. Will be talking about this in detail and how to go about answering these questions.
+---
 
 ## Stream Links
 
-Youtube: https://www.youtube.com/watch?v=8R8exodpyWs
-
-Twitch: https://www.twitch.tv/timecampus
+Youtube: https://www.youtube.com/watch?v=7yssRuNL0ME
 
 Facebook: https://www.facebook.com/timecampustech/live/
 
+Twitch: https://www.twitch.tv/timecampus
+
+Mixer: https://mixer.com/timecampus
 
 Periscope: https://periscope.tv/timecampus
 
@@ -23,42 +20,64 @@ Smashcast: https://www.smashcast.tv/timecampus
 
 ## Schedule
 
-[June 15th 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2xpOXFjZjNoa2Y0bzJqcmhmYWtwaDMwN2sgdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
+[August 12th 2020, 9:00 PM - 9:30 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpxN3ZxaG51cHE2cTJnN2xnM3BmZWttNzlfMjAyMDA4MTJUMTUzMDAwWiB0aW1lY2FtcHVzLmNvbV8zaHE0cHRrczBsZTJybmQwajAxbzYwMTRhZ0Bn&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
 
-30 minutes for the session, 15 minutes for Q&A and random chat
+---
 
 ## Agenda
 
-The agenda of this session are as follows
+In this episode, we will talk about the Cross-Platform Desktop App Development
 
-- [ ] About Timecampus
-- [ ] Introduction to this series
-- [ ] A brief overview about the topics we will cover with details on the schedule
-- [ ] Prerequisites & Expectations
-- [ ] Ways to mutually engage and collaborate with each other
+- [ ] Tooks & Frameworks
+- [ ] CEF
+- [ ] NW.js
+- [ ] Electronjs
+- [ ] QuickstartApp
 
-## Resources
+---
 
-[View Slides](#) (Will be available immediately after the session)
+## Tools & Frameworks
 
-[Session Recording](#) (Will be available immediately after the session)
+- [https://www.hongkiat.com/blog/frameworks-tools-build-cross-platform-desktop-apps/](https://www.hongkiat.com/blog/frameworks-tools-build-cross-platform-desktop-apps/)
+- [https://www.perfomatix.com/building-cross-platform-desktop-apps/](https://www.perfomatix.com/building-cross-platform-desktop-apps/)
+-[https://existek.com/blog/best-frameworks-for-desktop-application-development/](https://existek.com/blog/best-frameworks-for-desktop-application-development/)
 
-[Article](#) (Will be available immediately after the session)
+---
+
+## CEF
+
+- [https://github.com/chromiumembedded/cef](https://github.com/chromiumembedded/cef)
+- [https://en.wikipedia.org/wiki/Chromium_Embedded_Framework](https://en.wikipedia.org/wiki/Chromium_Embedded_Framework)
+
+---
+
+## NW.js
+
+- [https://nwjs.io/](https://nwjs.io/)
+
+---
+
+## Electronjs
+
+- [https://www.electronjs.org/](https://www.electronjs.org/)
+- [https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
+- [https://www.electronjs.org/docs/tutorial/application-architecture](https://www.electronjs.org/docs/tutorial/application-architecture)
+- [https://www.omgubuntu.co.uk/2019/02/best-electron-apps](https://www.omgubuntu.co.uk/2019/02/best-electron-apps)
+
+---
+
+## Comparison
+
+- [https://www.integu.net/electron-vs-nw-js-node-webkit-vs-cef-chromium-embedded-framework/](https://www.integu.net/electron-vs-nw-js-node-webkit-vs-cef-chromium-embedded-framework/)
+
+---
+
+## Electron Quickstart App
+
+- [https://github.com/electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+
+
 
 ## Speaker(s)
 
 - [Vignesh T.V.](http://tvvignesh.com/)
-
----
-
-## Links
-
-[Support us on Patreon](https://www.patreon.com/timecampus)
-
-[Timecampus Alpha Participation](https://docs.google.com/forms/d/1-fHizPhuXqDKqFZ2ns7Ttl00mT13DtjsRbHE5KtpxXs/viewform)
-
-[Timecampus Careers & Internships](https://docs.google.com/forms/d/1jHW-I5yjHl49itwoyM5xxYUao0X1fbnnoxJd78fS5u8/viewform)
-
-[Investors](https://docs.google.com/forms/d/13jkHPdvqoMDNsyzpC8-Dbv0lai8bXOvOLIovey7hfUM/viewform)
-
-[For Consultancy](https://docs.google.com/forms/d/e/1FAIpQLSeCb-Pu7Hcnh7oRvleRka2VW8EVZ6d8cNEccV7jKVmzhE6ilg/viewform) -->

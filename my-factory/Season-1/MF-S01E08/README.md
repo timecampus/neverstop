@@ -1,21 +1,18 @@
-## Details Coming soon. Please stay tuned
+# My Factory S01E08 - Architecting Airbnb
 
-In the meantime, you can watch all our past sessions at Youtube: [https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA](https://www.youtube.com/channel/UCLnTH4GOCB5fXWoOfgklQwA)
+<img src="https://raw.githubusercontent.com/timecampus/neverstop/master/my-factory/Season-1/MF-S01E08/MF-S01E08.png" width="800">
 
-<!-- # Episode 1 - Hello World
-
-![](PM-S01E01.png)
-
-In this episode, we will see the most important questions which a product manager has to answer even before starting to build out a product. Why, What, How and Who. Will be talking about this in detail and how to go about answering these questions.
+---
 
 ## Stream Links
 
-Youtube: https://www.youtube.com/watch?v=8R8exodpyWs
-
-Twitch: https://www.twitch.tv/timecampus
+Youtube: https://www.youtube.com/watch?v=zhVwKW1UhtY
 
 Facebook: https://www.facebook.com/timecampustech/live/
 
+Twitch: https://www.twitch.tv/timecampus
+
+Mixer: https://mixer.com/timecampus
 
 Periscope: https://periscope.tv/timecampus
 
@@ -23,42 +20,40 @@ Smashcast: https://www.smashcast.tv/timecampus
 
 ## Schedule
 
-[June 15th 2020, 9:00 PM - 9:45 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2xpOXFjZjNoa2Y0bzJqcmhmYWtwaDMwN2sgdGltZWNhbXB1cy5jb21fM2hxNHB0a3MwbGUycm5kMGowMW82MDE0YWdAZw&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
+[August 11th 2020, 9:00 PM - 9:30 PM Indian Standard Time (IST)](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmNrY2x1bnZjOXEwOHExNnNndGZwODBhOWFfMjAyMDA4MTFUMTUzMDAwWiB0aW1lY2FtcHVzLmNvbV8zaHE0cHRrczBsZTJybmQwajAxbzYwMTRhZ0Bn&tmsrc=timecampus.com_3hq4ptks0le2rnd0j01o6014ag%40group.calendar.google.com)
 
-30 minutes for the session, 15 minutes for Q&A and random chat
+---
 
 ## Agenda
 
-The agenda of this session are as follows
+We will try to architect Airbnb live in the stream
 
-- [ ] About Timecampus
-- [ ] Introduction to this series
-- [ ] A brief overview about the topics we will cover with details on the schedule
-- [ ] Prerequisites & Expectations
-- [ ] Ways to mutually engage and collaborate with each other
+---
 
-## Resources
+## Diagram
 
-[View Slides](#) (Will be available immediately after the session)
+- [View Diagram](https://drive.google.com/file/d/1uM4TOsrkGoG_ZUKpjIWSnSHCcWucobZ9/view?usp=sharing)
 
-[Session Recording](#) (Will be available immediately after the session)
+---
 
-[Article](#) (Will be available immediately after the session)
+## References
+
+- [https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
+
+- [https://enqueuezero.com/airbnb-architecture.html](https://enqueuezero.com/airbnb-architecture.html)
+
+- [https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
+
+- [https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b)
+
+- [https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
+
+- [https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
+
+- [https://airbnb.design/the-way-we-build/](https://airbnb.design/the-way-we-build/)
+
+---
 
 ## Speaker(s)
 
 - [Vignesh T.V.](http://tvvignesh.com/)
-
----
-
-## Links
-
-[Support us on Patreon](https://www.patreon.com/timecampus)
-
-[Timecampus Alpha Participation](https://docs.google.com/forms/d/1-fHizPhuXqDKqFZ2ns7Ttl00mT13DtjsRbHE5KtpxXs/viewform)
-
-[Timecampus Careers & Internships](https://docs.google.com/forms/d/1jHW-I5yjHl49itwoyM5xxYUao0X1fbnnoxJd78fS5u8/viewform)
-
-[Investors](https://docs.google.com/forms/d/13jkHPdvqoMDNsyzpC8-Dbv0lai8bXOvOLIovey7hfUM/viewform)
-
-[For Consultancy](https://docs.google.com/forms/d/e/1FAIpQLSeCb-Pu7Hcnh7oRvleRka2VW8EVZ6d8cNEccV7jKVmzhE6ilg/viewform) -->

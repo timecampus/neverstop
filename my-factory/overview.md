@@ -27,15 +27,15 @@ You give me any valid usecase or problem statement and I architect it live on st
 
 3. [My Factory #3 - Architecting Google Part 1](Season-1/MF-S01E03/README.md)
 
-4. [My Factory #4](Season-1/MF-S01E04/README.md)
+4. [My Factory #4 - Architecting Facebook](Season-1/MF-S01E04/README.md)
 
-5. [My Factory #5](Season-1/MF-S01E05/README.md)
+5. [My Factory #5 - Architecting Github](Season-1/MF-S01E05/README.md)
 
-6. [My Factory #6](Season-1/MF-S01E06/README.md)
+6. [My Factory #6 - Architecting Youtube](Season-1/MF-S01E06/README.md)
 
-7. [My Factory #7](Season-1/MF-S01E07/README.md)
+7. [My Factory #7 - Architecting Amazon](Season-1/MF-S01E07/README.md)
 
-8. [My Factory #8](Season-1/MF-S01E08/README.md)
+8. [My Factory #8 - Architecting Airbnb](Season-1/MF-S01E08/README.md)
 
 9. [My Factory #9](Season-1/MF-S01E09/README.md)
 
